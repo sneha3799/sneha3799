@@ -4,7 +4,7 @@
 
 🚀 Passionate **Machine Learning Engineer & Researcher** | **MEng ECE @ University of Waterloo**  
 💡 Exploring the intersection of **Computer Vision, NLP, Time-Series, and Fair ML**  
-🌱 Currently working on **algorithmic fairness, causal modeling, and LLM-based applications**  
+🌱 Currently working as an **Applied ML Intern** at the Vector Institute
 
 ---
 
